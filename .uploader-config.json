@@ -1,0 +1,45 @@
+{
+    "publishedFileId": 2865776949,
+    "update_titles": false,
+    "update_description": false,
+    "update_previewFile": false,
+    "update_visibility": false,
+    "title": "",
+    "description": "",
+    "previewFile": "",
+    "tags": [
+        "environment",
+        "other"
+    ],
+    "visibility": 0,
+    "exclude": [
+        ".git/",
+        ".vscode/",
+        ".uploader-config.json",
+        "release/"
+    ],
+    "git_exclude": false,
+    "change_note": "",
+    "tags可选值": [
+        "character",
+        "item",
+        "pet",
+        "creature",
+        "environment",
+        "interface",
+        "utility",
+        "art",
+        "worldgen",
+        "tweak",
+        "scenario",
+        "language",
+        "other",
+        "tutorial",
+        "server_admin"
+    ],
+    "visibility可选值": [
+        "PUBLIC              = 0",
+        "FRIENDS_ONLY        = 1",
+        "PRIVATE             = 2"
+    ]
+}
